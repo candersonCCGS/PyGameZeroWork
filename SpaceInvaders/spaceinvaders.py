@@ -28,6 +28,9 @@ enemies = []
 enemy_lasers = []
 enemy_laser_speeds = [ENEMY1_LASER_SPEED, ENEMY2_LASER_SPEED, ENEMY3_LASER_SPEED]
 
+current_level = 1
+# a new comment
+
 def draw():
     screen.clear()
     screen.draw.text("Score: " + str(player.score), (20, 20), color="orange", fontsize=40)
