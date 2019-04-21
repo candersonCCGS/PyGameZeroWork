@@ -1,6 +1,8 @@
 import pgzrun
 import random
 
+# commenting to use GitHub
+
 # constants to use throughout the program. Adjust these to change game difficulty
 HEIGHT = 700
 WIDTH = 1000
